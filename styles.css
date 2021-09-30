@@ -97,7 +97,7 @@ margin-left: 10.0rem;
 }
 .lines{
   display: inline flex;
-  flex-direction:row;
+  flex-direction:column;
   margin: 0 1.5rem;
   justify-content:center;
 }
