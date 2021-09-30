@@ -27,6 +27,6 @@
   }
  .text-center{
     display: flex;
-    flex-direction: column;
-    font-size: 5vh;
+    flex-direction: row;
+    font-size: 5rem;
  }
