@@ -51,7 +51,7 @@ nav ul li a:hover{
   font-weight: bolder;
 }
 .container{
-  min-height: calc(100vh - 5.8rem - 12vh);
+  max-height: calc(100vh - 5.8rem - 12vh);
 }
 .search{
   display: flex;
