@@ -52,7 +52,7 @@ nav ul li a:hover{
   font-weight: bolder;
 }
 .container{
-  min-height: calc(100vh - 4vh - 12vh);
+  min-height: calc(100vh - 8vh - 12vh);
 }
 .search{
   display: flex;
