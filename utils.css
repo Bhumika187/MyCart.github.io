@@ -25,4 +25,8 @@
       font-size: 3.5rem;
       color: #212121;
   }
- 
+ .text-center{
+    display: flex;
+    flex-direction: column;
+    font-size: 5vh;
+ }
