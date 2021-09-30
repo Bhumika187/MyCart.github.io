@@ -12,7 +12,7 @@ footer{
 header{
   background-color:#2874f0;
   font-family: 'Playfair Display', serif;
-  
+  width: 1400px;
   
 }
 nav{
@@ -83,7 +83,4 @@ margin-left: 100px;
   justify-content: center;
   margin-left: 150px;
   color:#212121;
-}
-.new{
-  width: 1400px;
 }
