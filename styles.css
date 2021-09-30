@@ -95,3 +95,9 @@ margin-left: 10.0rem;
   margin-left: 15.0rem;
   color:#212121;
 }
+.lines{
+  display: inline flex;
+  flex-direction:column;
+  margin: 0 1.5rem;
+  justify-content:center;
+}
