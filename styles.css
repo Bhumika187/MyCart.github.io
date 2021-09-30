@@ -84,12 +84,12 @@ margin-left: 10.0rem;
 .card-item{
   display: inline flex;
   justify-content:center;
-  flex-direction: column;
+  flex-direction: row;
   margin: 0 1.5rem;
 }
 .cards{
   display: inline flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-left: 15.0rem;
@@ -97,7 +97,7 @@ margin-left: 10.0rem;
 }
 .lines{
   display: inline flex;
-  flex-direction:column;
+  flex-direction:row;
   margin: 0 1.5rem;
   justify-content:center;
 }
