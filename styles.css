@@ -89,7 +89,7 @@ margin-left: 10.0rem;
 }
 .cards{
   display: inline flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   margin-left: 15.0rem;
