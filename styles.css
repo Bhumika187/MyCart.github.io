@@ -19,7 +19,7 @@ header{
   background-color:#2874f0;
   font-family: 'Playfair Display', serif;
   width: 140rem;
-  height:8vh;
+  
   
 }
 nav{
@@ -30,6 +30,7 @@ nav{
 .logo{
   display:flex;
   align-items: center;
+  height: 3rem;
 }
 .logo img{
 width: 8.8rem;
@@ -40,6 +41,7 @@ nav ul{
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  height:10vh;
 }
 nav ul li{
   list-style: none;
@@ -53,7 +55,7 @@ nav ul li a:hover{
   font-weight: bolder;
 }
 .container{
-  min-height: calc(100vh - 8vh - 12vh);
+  min-height: calc(100vh - 10vh - 12vh);
 }
 .search{
   display: flex;
