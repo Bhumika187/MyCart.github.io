@@ -13,9 +13,11 @@ header{
   background-color:#2874f0;
   font-family: 'Playfair Display', serif;
   
+  
 }
 nav{
   display: flex;
+  width:1400px;
 }
 .logo{
   display:flex;

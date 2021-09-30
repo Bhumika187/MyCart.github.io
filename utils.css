@@ -1,5 +1,5 @@
 .flex-all-center{
-    width: 1600px;
+    width: 1400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,6 +24,4 @@
       font-size: 35px;
       color: #212121;
   }
-  .new{
-    width: 1600px;
-  }
+ 
