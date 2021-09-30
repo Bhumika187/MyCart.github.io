@@ -19,7 +19,7 @@ header{
   background-color:#2874f0;
   font-family: 'Playfair Display', serif;
   width: 140rem;
-  height:8vh;
+  height:4vh;
   
 }
 nav{
@@ -52,7 +52,7 @@ nav ul li a:hover{
   font-weight: bolder;
 }
 .container{
-  min-height: calc(100vh - 8vh - 12vh);
+  min-height: calc(100vh - 4vh - 12vh);
 }
 .search{
   display: flex;
