@@ -17,7 +17,7 @@ header{
 }
 nav{
   display: flex;
-  width:1400px;
+  width: 1400px;
 }
 .logo{
   display:flex;
@@ -59,13 +59,14 @@ nav ul li a:hover{
   padding: 0 12px;
 }
 .slider{
-  margin:12px auto;
-  width: 75vw;
+  
+  margin: 12px 200px;
+width: 75vw;
   
 }
 .card{
   max-width: 91vw;
-  margin: auto;
+margin-left: 100px;
 }
 .card h2{
   font-family: 'Playfair Display', serif;
