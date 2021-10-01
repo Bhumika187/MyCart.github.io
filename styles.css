@@ -89,6 +89,7 @@ margin-left: 10.0rem;
   display: inline flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: nowrap;
   justify-content: center;
   margin-left: 15.0rem;
   color:#212121;
