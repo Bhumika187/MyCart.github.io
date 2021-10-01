@@ -85,6 +85,7 @@ margin-left: 10.0rem;
   display: inline-flex ;
   margin: 0 1.5rem;
   flex-direction: column;
+  width:100%
 }
 .cards{
   display: inline flex;
@@ -92,7 +93,7 @@ margin-left: 10.0rem;
   align-items: center;
   margin-left: 5.0rem;
   color:#212121;
- width:auto;
+ 
 }
 .lines{
   display: inline flex;
