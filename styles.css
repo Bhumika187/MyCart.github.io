@@ -82,9 +82,7 @@ margin-left: 10.0rem;
   font-family: 'Playfair Display', serif;
 }
 .card-item{
-  display: inline flex;
-  justify-content:center;
-  flex-direction: column;
+  display: inline ;
   margin: 0 1.5rem;
 }
 .cards{
