@@ -92,7 +92,7 @@ margin-left: 10.0rem;
   align-items: center;
   margin-left: 5.0rem;
   color:#212121;
- 
+ width:auto;
 }
 .lines{
   display: inline flex;
