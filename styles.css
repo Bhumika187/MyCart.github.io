@@ -85,15 +85,16 @@ margin-left: 10.0rem;
   display: inline-flex ;
   margin: 0 1.5rem;
   flex-direction: column;
-  width:100%
+  width:100%;
+  overflow: hidden;
 }
 .cards{
   display: inline flex;
   flex-direction: row;
   align-items: center;
   margin-left: 5.0rem;
-  color:#212121;
- 
+  color:#9e9292;
+  width:100%
 }
 .lines{
   display: inline flex;
