@@ -85,7 +85,6 @@ margin-left: 10.0rem;
   display: inline-flex ;
   margin: 0 1.5rem;
   flex-direction: column;
-  width:100%;
   overflow: hidden;
 }
 .cards{
